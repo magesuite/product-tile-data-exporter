@@ -1,2 +1,0 @@
-# product-tile-data-exporter
-
